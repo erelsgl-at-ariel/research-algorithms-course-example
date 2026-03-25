@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*
+
 class Gymatria:
 
     _aleph_beth = None
