@@ -9,6 +9,9 @@ The example module supplies one function, factorial().  For example,
 
 import numpy as np
 
+"""
+"""
+
 def factorial(n):
     """Return the factorial of n, an exact integer >= 0.
 
